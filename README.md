@@ -1,6 +1,7 @@
 # match_card_game
 
 A new Flutter project.
+Simple with just basic animation flip of circular cards and showing first the cards at the start.
 
 ## Getting Started
 
